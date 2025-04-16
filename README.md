@@ -8,3 +8,7 @@ Nome: Gustavo Douglas Silva Cruz
 Email: gustavodouglas646@gmail.com
 
 matrícula: 20230044504
+
+# Tarefas
+
+## [Tarefa 01](tarefas/t01/tarefa01.md)
