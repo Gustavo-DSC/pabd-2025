@@ -18,3 +18,20 @@ ODBC (Open Database Connectivity) é uma API padrão da indústria que permite q
 
 ---
 
+# ORM com Python (SQLAlchemy)
+## [Codigo ORM em python](orm_connect.py)
+
+Para implementar o ORM (Object-Relational Mapping), utilizamos o framework SQLAlchemy. O ORM permite mapear tabelas do banco de dados como classes Python, facilitando a manipulação de dados sem a necessidade de escrever SQL manualmente.
+
+podendo:
+
+Listar projetos e atividades
+
+Inserir novos projetos
+
+Atualizar o responsável por um projeto
+
+Inserir novas atividades
+
+--- 
+
