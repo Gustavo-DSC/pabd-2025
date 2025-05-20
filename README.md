@@ -12,3 +12,4 @@ matrícula: 20230044504
 # Tarefas
 
 ## [Tarefa 01](tarefas/t01/tarefa01.md)
+## [Tarefa 01](tarefas/orm/tarefa02-orm.md)

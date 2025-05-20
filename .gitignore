@@ -1,0 +1,32 @@
+# Ambiente virtual
+venv/
+.venv/
+ENV/
+env/
+# Dependências
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configurações do editor
+.vscode/
+.idea/
+
+# Arquivos de cache do pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos do PostgreSQL e Docker (se você quiser ignorar dados locais)
+*.pgsql
+*.sql~
+*.bak
+
+# Arquivos de configuração temporários
+*.swp
+*.swo
